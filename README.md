@@ -19,11 +19,12 @@
 />
 
 ---
+<!-- Github Streak -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=RakshakSigdel&theme=dark&hide_border=true"
+       alt="GitHub Streak Stats" />
+</p>
 
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true"
-/>
 
 ---
 
