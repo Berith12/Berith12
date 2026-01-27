@@ -21,7 +21,7 @@
 ---
 <!-- Github Streak -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Berith12l&theme=dark&hide_border=true"
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Berith12&theme=dark&hide_border=true"
        alt="GitHub Streak Stats" />
 </p>
 
