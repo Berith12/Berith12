@@ -8,30 +8,20 @@
 ---
 
 <!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true"
-  height="165"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 ---
-<!-- Github Streak -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Berith12 & theme=dark&hide_border=true"
-       alt="GitHub Streak Stats" />
-</p>
 
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Berith12&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
 <!-- Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true" />
 
 ---
 
