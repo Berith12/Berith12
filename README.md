@@ -8,14 +8,8 @@
 ---
 
 <!-- GitHub Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Berith12&theme=tokyonight" height="165" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Berith12&theme=tokyonight" height="165" alt="Top Languages" />
 
 ---
 
@@ -25,7 +19,7 @@
   <img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </picture>
 
----
+
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
