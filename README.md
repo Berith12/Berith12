@@ -7,17 +7,18 @@
 
 ---
 
-<!-- GitHub Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Berith12&theme=tokyonight" height="165" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Berith12&theme=tokyonight" height="165" alt="Top Languages" />
+<!-- GitHub Stats using reliable Statsig -->
+<a href="https://github.com/Berith12">
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=Berith12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Berith12">
+  <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</a>
 
 ---
 
 <!-- GitHub Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
 
 
