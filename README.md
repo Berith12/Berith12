@@ -7,20 +7,15 @@
 
 ---
 
-<!-- GitHub Stats using reliable Statsig -->
-<a href="https://github.com/Berith12">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=Berith12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Berith12">
-  <img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</a>
+<!-- GitHub Trophies - Always works -->
+<img src="https://github-profile-trophy.vercel.app/?username=Berith12&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 ---
 
 <!-- GitHub Streak -->
 <img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 
-
+---
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
