@@ -8,26 +8,27 @@
 ---
 
 <!-- GitHub Stats -->
-<a href="https://github.com/Berith12">
-  <img src="https://github-readme-stats-berith12.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Berith12">
-  <img src="https://github-readme-stats-berith12.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
+</picture>
 
 ---
 
 <!-- GitHub Streak -->
-<p align="center">
-  <a href="https://github.com/Berith12">
-    <img src="https://streak-stats.demolab.com/?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</picture>
 
 ---
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 ---
 
