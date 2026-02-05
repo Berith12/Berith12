@@ -8,14 +8,20 @@
 ---
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<a href="https://github.com/Berith12">
+  <img src="https://github-readme-stats-berith12.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Berith12">
+  <img src="https://github-readme-stats-berith12.vercel.app/api/top-langs/?username=Berith12&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</a>
 
 ---
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Berith12&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://github.com/Berith12">
+    <img src="https://streak-stats.demolab.com/?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
 ---
