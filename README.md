@@ -1,79 +1,114 @@
-# Hi, I'm Berith12
-
-<pre>
-                                  ___ ___ ___ ___ ___
-                                 /\__\ /\ \ /\__\ /\__\ /\ \
-                                /:/ / /::\ \ /:/ / /:/ / /::\ \
-                               /:/__/ /:/\:\ \ /:/ / /:/ / /:/\:\ \
-                              /::\ \ ___ /::\~\:\ \ /:/ / /:/ / /:/ \:\ \
-                             /:/\:\ /\__\ /:/\:\ \:\__\ /:/__/ /:/__/ /:/__/ \:\__\
-                             \/__\:\/:/ / \:\~\:\ \/__/ \:\ \ \:\ \ \:\ \ /:/ /
-                                  \::/ / \:\ \:\__\ \:\ \ \:\ \ \:\ /:/ /
-                                  /:/ / \:\ \/__/ \:\ \ \:\ \ \:\/:/ /
-                                 /:/ / \:\__\ \:\__\ \:\__\ \::/ /
-                                 \/__/ \/__/ \/__/ \/__/ \/__/
-</pre>
-
-## Skill Set
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      ### Frontend
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts&perline=4" alt="Frontend skills" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      ### Languages
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=js,java,python&perline=4" alt="Languages" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      ### Others
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord&perline=4" alt="Tools" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-## Connect with me
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <!-- Add more if you have: Medium, Twitter/X, etc. -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=220&section=header&text=KUSHAL%20JAMARKATTEL&fontSize=60&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%7C%20UI%2FUX-%20Designer%20Nepal%20🇳🇵&descAlignY=62&descSize=21" width="100%" />
 </div>
 
-## GitHub Stats
+<!-- ===================== INTRO TYPING ===================== -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=white&center=true&vCenter=true&width=760&lines=Scalable+Web+Applications;Clean+Architecture+%26+Maintainable+Code;Modern+Frontend+%2B+Reliable+Backend;UI%2FUX-Aware+Engineering" />
+</div>
 
+<!-- ===================== LINKS ===================== -->
+<div align="center" style="margin: 25px 0;">
+  <a href="https://www.linkedin.com/in/kushal-jamarkattel-72639a330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&bg-red" />
+  </a>
+  <a href="https://kushaljamarkattel.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/kushaljk11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=kushaljk11&style=for-the-badge&color=6F42C1" />
+</div>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&bg_color=1a1b26&color=9d7cd8&line=9d7cd8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<!-- ===================== ABOUT ===================== -->
+## About Myself
+
+I’m **BERITH (JK)**, a **Full-Stack Developer from Nepal 🇳🇵** with experience building **scalable, maintainable, and user-focused web applications**.
+
+I work across the full development lifecycle from **UI/UX-aware frontend design** to **robust backend systems**, always prioritizing **clean code, performance, and long-term scalability**.
+
+<details>
+  <summary><b>More details</b></summary>
+
+  - Experience with **production-style applications**
+  - Strong understanding of **frontend backend integration**
+  - Interest in **system design & architecture**
+  - Open to **internships, junior roles, and collaborations**
+
+</details>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Technical Stack
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Berith12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Berith12&style=flat-square&color=9d7cd8&label=Profile+Views" alt="Profile Views" />
+### DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+### CMS / Templating
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=liquid" />
+  <strong>Shopify / Liquid</strong>
+</p>
 
-<!-- GitHub will automatically show your pinned repos here on the profile page -->
+### UI / Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
+</p>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berith12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=berith12&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berith12&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=berith12&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center" style="margin-top: 25px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berith12&theme=tokyo-night&hide_border=true&area=true" width="96%" />
+</p>
+
+---
+
+<!-- ===================== GOALS ===================== -->
+## 📌 What I’m Looking For
+
+- **Internships / Junior Developer roles**
+- **Real-world project collaboration**
+- **Open-source contributions**
+- Growth as a **professional full-stack engineer**
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center" style="margin-top: 40px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24&height=200&section=header&text=Feel%20Free&fontSize=60&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=To%20Contact%20%7C%20Me%20&descAlignY=62&descSize=21" width="100%" />
+</div>
