@@ -13,17 +13,17 @@
 ---
 ## 🧩 Stats & Badges
 <p align="center">
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=Berith12&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <!-- Profile views - add ?cacheSeconds=0 to try forcing refresh -->
+  <img src="https://komarev.com/ghpvc/?username=Berith12&label=Profile%20Views&color=blueviolet&style=flat-square&cacheSeconds=0" alt="Profile views" />
   
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/Berith12?label=Followers&style=flat-square&color=blueviolet" alt="GitHub followers" />
   
-  <!-- Stars (all repos) - more useful than profile repo size -->
+  <!-- Total stars across repos -->
   <img src="https://img.shields.io/github/stars/Berith12?label=Total%20Stars&style=flat-square&color=blueviolet" alt="Total stars" />
   
-  <!-- Optional: Top language (if you have public repos) -->
-  <img src="https://img.shields.io/github/languages/top/Berith12/Berith12?color=blueviolet&style=flat-square" alt="Top Language" />
+  <!-- Optional: Public repos count -->
+  <img src="https://img.shields.io/github/repos/Berith12?label=Public%20Repos&style=flat-square&color=blueviolet" alt="Public repos" />
 </p>
 ---
 ## 🧠 Most Used Tech
