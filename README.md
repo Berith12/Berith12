@@ -1,56 +1,82 @@
+# Hi, I'm Berith12
+
+<pre>
+                                  ___ ___ ___ ___ ___
+                                 /\__\ /\ \ /\__\ /\__\ /\ \
+                                /:/ / /::\ \ /:/ / /:/ / /::\ \
+                               /:/__/ /:/\:\ \ /:/ / /:/ / /:/\:\ \
+                              /::\ \ ___ /::\~\:\ \ /:/ / /:/ / /:/ \:\ \
+                             /:/\:\ /\__\ /:/\:\ \:\__\ /:/__/ /:/__/ /:/__/ \:\__\
+                             \/__\:\/:/ / \:\~\:\ \/__/ \:\ \ \:\ \ \:\ \ /:/ /
+                                  \::/ / \:\ \:\__\ \:\ \ \:\ \ \:\ /:/ /
+                                  /:/ / \:\ \/__/ \:\ \ \:\ \ \:\/:/ /
+                                 /:/ / \:\__\ \:\__\ \:\__\ \::/ /
+                                 \/__/ \/__/ \/__/ \/__/ \/__/
+</pre>
+
+## Skill Set
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      ### Frontend
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts&perline=4" alt="Frontend skills" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      ### Languages
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" alt="Languages" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      ### Others
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord&perline=4" alt="Tools" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+## Connect with me
+
 <div align="center">
-  <h2>Berith12</h2>
-  🚀 Passionate developer sharing projects, experiments, and code!
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://leetcode.com/u/YOUR-LEETCODE-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <!-- Add more if you have: Medium, Twitter/X, etc. -->
 </div>
 
----
+## GitHub Stats
 
-<!-- Main Stats Card - tokyonight theme -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Berith12&theme=tokyonight&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&rank_icon=github" alt="Berith12's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&theme=tokyonight&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" width="40%" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&bg_color=1a1b26&color=9d7cd8&line=9d7cd8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
 
-<!-- Streak Stats - tokyonight -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Berith12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Berith12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
-<!-- Activity Graph - tokyo-night (note the slight name difference) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Berith12&style=flat-square&color=9d7cd8&label=Profile+Views" alt="Profile Views" />
+</p>
 
-<br>
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
 
-<!-- Stats & Badges row -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Berith12&label=Profile%20Views&color=9d7cd8&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Berith12?label=Followers&style=flat-square&color=9d7cd8" alt="Followers" />
-</div>
-
-<br>
-
-<!-- Trophies - tokyonight (uncomment when you have some unlocked) -->
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Berith12&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div> -->
-
----
-
-## 🧠 Most Used Tech
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
-<br>
-
-<!-- Your popular repos will show automatically below on the profile page -->
+<!-- GitHub will automatically show your pinned repos here on the profile page -->
