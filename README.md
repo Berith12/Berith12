@@ -27,7 +27,7 @@
     <td valign="top" width="33%">
       ### Languages
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python&perline=4" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=js,java,python&perline=4" alt="Languages" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -56,10 +56,7 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Berith12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berith12&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Berith12&theme=tokyo-night&bg_color=1a1b26&color=9d7cd8&line=9d7cd8&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
