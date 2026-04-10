@@ -83,7 +83,7 @@ I work across the full development lifecycle from **UI/UX-aware frontend design*
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berith12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=berith12&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=berith12&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
