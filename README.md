@@ -66,11 +66,7 @@ I work across the full development lifecycle from **UI/UX-aware frontend design*
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-### CMS / Templating
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=liquid" />
-  <strong>Shopify / Liquid</strong>
-</p>
+
 
 ### UI / Design
 <p align="left">
