@@ -10,13 +10,13 @@
 
 <!-- ===================== LINKS ===================== -->
 <div align="center" style="margin: 25px 0;">
-  <a href="https://www.linkedin.com/in/kushal-jamarkattel-72639a330/">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&bg-red" />
   </a>
-  <a href="https://kushaljamarkattel.com.np">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/kushaljk11">
+  <a href="https://github.com/Berith12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=kushaljk11&style=for-the-badge&color=6F42C1" />
